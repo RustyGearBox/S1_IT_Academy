@@ -1,0 +1,4 @@
+Jugador: GearBox
+Respostes: {Amsterdam=Amsterdam, Bucharest=Bucharest, Lisbon=Lisbon, London=London, Valletta=Valletta, Athens=Athens, Helsinki=Helsinki, Bratislava=Bratislava}
+Respostes correctes: 10
+Respostes incorrectes: 0
